@@ -1,5 +1,6 @@
 // Entradas Digitales
-// 
+// Las entradas digitales solo pueden recibir 2 valores, 0 y 1 (HIGH Y LOW)
+// Al igual que las salidas digitales solo pueden enviar 2 valores 0 y 1 
 
 void void setup()
 {
