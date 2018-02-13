@@ -21,7 +21,9 @@ entrada1 = digitalRead(2);  //Colocamos el valor de la entrada 2 en la variable 
 entrada2 = digitalRead(3);	//...
 entrada3 = digitalRead(4);	//...
 
-
+digitalWrite(5, entrada1);	//Colocamos el valor de entrada 1 en la salida 5
+digitalWrite(6, entrada2);	//...
+digitalWrite(7, entrada3);	//..
 
 
 	
